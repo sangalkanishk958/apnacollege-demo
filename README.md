@@ -1,1 +1,1 @@
-# apnacollege-demo
+# Learning about the git setup
